@@ -19,5 +19,3 @@ I'm passionate about **music** 🎶, **sports** 🏅, and **programming** 💻. 
 ![Heron4gf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heron4gf&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heron4gf&theme=nord&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Heron4gf&theme=nord&hide_border=true)
