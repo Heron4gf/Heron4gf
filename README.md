@@ -1,21 +1,12 @@
-# Hey there! I'm Aldo Giambuzzi, but you can call me Heron
+# Hey there! I'm Aldo Giambuzzi (Heron)
 
-Passionate about **music** 🎶, **sports** 🏅, and **programming** 💻. Coding since 14 with big dreams! Currently studying at [UNICAM](https://unicam.it), focusing on *Informatica per la Comunicazione digitale*.
+Passionate about **music** 🎶, **sports** 🏅, and **programming** 💻. Studying *Digital Communication Informatics* at [UNICAM](https://unicam.it).
 
-🌍 Based in **Italy**  
-📁 **[Explore my Projects!](https://aldo.giambuzzi.it)** — from open-source to AI agents and web apps  
-🖥️ Connect with me on **[LinkedIn](https://www.linkedin.com/in/aldo-giambuzzi)**  
-
----
-
-### 💻 **Technologies I work with**:
-- **Languages:** Java, Python, PHP, JavaScript, C++  
-- **Frameworks & Tools:** [Laravel](https://laravel.com), [Vue.js](https://vuejs.org), [PyTorch](https://pytorch.org), [Flask](https://flask.palletsprojects.com)  
+🌍 **Italy**  
+📁 **[Projects!](https://aldo.giambuzzi.it)** | 🖥️ **[LinkedIn](https://www.linkedin.com/in/aldo-giambuzzi)**  
 
 ---
 
-### **My GitHub Stats**
-
-![Heron4gf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heron4gf&theme=nord&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heron4gf&theme=nord&show_icons=true&hide_border=true&layout=compact)
+### 💻 **Technologies**:
+- **Languages:** Java, Python, PHP, JavaScript  
+- **Frameworks & Tools:** [FastAPI](https://fastapi.tiangolo.com), [Docker](https://www.docker.com), [Angular.js](https://angularjs.org), [Vue.js](https://vuejs.org), [PyTorch](https://pytorch.org), [Flask](https://flask.palletsprojects.com)
