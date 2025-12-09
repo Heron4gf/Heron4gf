@@ -1,4 +1,4 @@
-# Hey there! I'm Aldo Giambuzzi (Heron)
+# Hey there! I'm Aldo Giambuzzi
 
 Passionate about **music** 🎶, **sports** 🏅, and **programming** 💻. Studying *Digital Communication Informatics* at [UNICAM](https://unicam.it).
 
