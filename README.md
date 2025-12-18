@@ -1,9 +1,9 @@
 # Hey there! I'm Aldo Giambuzzi
 
-Passionate about **music** 🎶, **sports** 🏅, and **programming** 💻. Studying *Digital Communication Informatics* at [UNICAM](https://unicam.it).
+Passionate about **music** 🎶, **sports** 🏅, and **programming** 💻. Studying Computer Science and Digital Communication @ [UNICAM](https://unicam.it).
 
 🌍 **Italy**  
-📁 **[Projects!](https://aldo.giambuzzi.it)** | 🖥️ **[LinkedIn](https://www.linkedin.com/in/aldo-giambuzzi)**  
+📁 **[Portfolio](https://aldo.giambuzzi.it)** | 🖥️ **[LinkedIn](https://www.linkedin.com/in/aldo-giambuzzi)**  
 
 ---
 
